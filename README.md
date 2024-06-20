@@ -5,7 +5,7 @@
 🔗 LinkedIn: https://www.linkedin.com/in/aayush-rehal-2011a4209/ <br><br>
 
 ## About Me 🌐
-Dynamic Data Scientist with  geek of Linux. Proficient in Python, machine learning, and deep learning, with a keen focus on generative AI and large language models. Passionate about converting complex data into actionable insights and practical solutions.<br><br>
+Data Scientist with  geek of Linux. Proficient in Python, machine learning, and deep learning, with a keen focus on generative AI and large language models. Passionate about converting complex data into actionable insights and practical solutions.<br><br>
 
 ## Technical Skills 🛠️
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, Keras, Langchain, Vector Databases, Huggingface)
